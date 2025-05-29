@@ -1,56 +1,67 @@
 # soc-lab-projects
 # 🌐 Cloud Support & Security Operations Portfolio
 
-Welcome to my project portfolio — a collection of hands-on technical projects completed through the **NextWork platform**, focused on **Cloud Support**, **Security Operations**, and **infrastructure monitoring**.
+# 🌐 Cloud & Security Operations Portfolio
 
-Each project reflects real-world tasks, combining tools and platforms such as **AWS**, **Azure**, **Linux**, **SIEM tools**, and **infrastructure as code**. These projects demonstrate not just technical skills, but my commitment to continuous learning and practical application in the cloud and cybersecurity domains.
+Welcome to my technical portfolio — a curated collection of hands-on projects in **Cloud Support**, **Security Operations**, and **infrastructure monitoring and automation**.
 
----
+This repository is divided into two categories:
 
-## 🧠 Key Competencies
+- **Academic Projects**: Guided learning challenges, certification labs, and structured exercises (e.g., from NextWork and training platforms)
+- **Professional Projects**: Self-directed work, homelab deployments, applied cybersecurity and cloud configurations, and automation workflows
 
-- ✅ Cloud platform provisioning (AWS, Azure)
-- ✅ Infrastructure troubleshooting (Linux, EC2, permissions, logs)
-- ✅ Monitoring & alerting (CloudWatch, ELK Stack, SIEM)
-- ✅ Identity & Access Management (IAM policies, RBAC)
-- ✅ Incident detection & response workflows
-- ✅ Scripting & automation (Bash, YAML, Terraform basics)
+Each project reflects my growth in cloud infrastructure, security engineering, and system resilience — and is documented for clarity and reproducibility.
 
 ---
 
-## 📁 Projects
+## 📚 Academic Projects
 
-| Day | Project | Skills Demonstrated | Link |
-|-----|---------|----------------------|------|
-| Day 1 | CloudWatch Monitoring Setup | AWS EC2, metrics, alarms | [View Project](./day-1-cloudwatch) |
-| Day 2 | Linux System Debugging | Permissions, logs, user management | [View Project](./day-2-linux-debugging) |
-| Day 3 | Intro to SIEM & Log Analysis | Log parsing, event triage | [View Project](./day-3-siem-analysis) |
-| Day 4 | IAM Policy Design | RBAC, user roles, secure access | [View Project](./day-4-iam-policy) |
-| Day 5 | Cloud Security Review | Misconfig detection, response ideas | [View Project](./day-5-security-review) |
+[➡️ View Academic Projects Folder](./academic-projects/)
 
-_Note: These are placeholder titles — update with your actual project names and folder paths as you go._
+These projects were completed as part of structured learning paths and include:
 
----
+- The NextWork 5-Day Beginner Challenge
+- Certification-aligned exercises (AWS, Azure, CompTIA)
+- Simulated SOC analyst workflows
+- IAM policy design and monitoring setups
 
-## 💼 About Me
-
-I’m a U.S.-based Cloud Support professional transitioning into **Security Operations**. I’m currently expanding my skills through:
-- Real-world cloud lab projects
-- Certifications (AWS, Azure, Security+)
-- Study in **AI applications** to cybersecurity and automation
-
-I’m passionate about infrastructure visibility, proactive threat detection, and helping organizations build resilient, secure systems.
+> ⚠️ Disclaimer: Some academic projects may follow learning prompts provided by third-party platforms. All work shown reflects my independent understanding and execution.
 
 ---
 
-## 📬 Contact & Links
+## 💼 Professional Projects
 
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 📄 [Download My Resume](https://yourwebsite.com/resume.pdf)
+[➡️ View Professional Projects Folder](./professional-projects/)
+
+These are independently created or customized projects focused on:
+- Practical infrastructure deployments
+- Incident response simulations
+- Custom IAM and policy frameworks
+- Cloud-native monitoring stacks (e.g., Wazuh, ELK, Prometheus)
+
+Projects in this section represent real-world troubleshooting, experimentation, and system design.
+
+---
+
+## 🧠 Core Skills Demonstrated
+
+- ✅ Cloud infrastructure (AWS, Azure)
+- ✅ Security event monitoring & log analysis (SIEM, ELK, CloudWatch)
+- ✅ Linux administration & scripting (Bash, cron, system logs)
+- ✅ Infrastructure as Code (Terraform basics, YAML)
+- ✅ IAM & access control design
+- ✅ Incident response methodology
+- ✅ Technical documentation and version control (GitHub)
+
+---
+
+## 📬 Contact & Portfolio Links
+
+- 🌐 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📄 [Download Resume (PDF)](https://yourwebsite.com/resume.pdf)
 - 📧 Email: your@email.com
 
----
+> “Security is not a product, but a process — and my job is to make that process visible, resilient, and repeatable.”
 
-> “Cloud is the infrastructure. Security is the promise. Execution is the key.”  
-> — *Me, after a long night of debugging IAM policies.*
+
 
